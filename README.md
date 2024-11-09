@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kevin Langendoen
 - 👀 I’m interested in making videogames, websites and all sorts of cool stuff!
-- 🌱 I’m currently learning: AI and Machine learning, Python, JavaScript Lua, MYSQL, HTML, CSS
-- 💞️ I’m looking to collaborate on *Autonomous Agent Swarms* at the moment
+- 🌱 I’m currently learning: AI and Machine learning, TS,NodeJS, React, Python, JavaScript Lua, MYSQL, HTML, CSS
 
 <!---
 this is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
